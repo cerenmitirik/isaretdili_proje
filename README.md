@@ -22,7 +22,7 @@ Model, el hareketlerinin karmaşık yapısını çözümlemek için modern bilgi
 
 ### 💻 3. Frontend ve Kullanıcı Deneyimi (`isaret-dili-frontend/`)
 * **Teknoloji:** React.js ile geliştirilmiş interaktif arayüz.
-* **Gerçek Zamanlı Test:** Tarayıcı üzerinde kamera verisiyle çalışabilen interaktif yapı.
+* **Gerçek Zamanlı Test:** TensorFlow.js (tfjs) entegrasyonu sayesinde, eğitilen model doğrudan tarayıcı üzerinde kamera verisiyle çalışabilmektedir.
 
 ---
 
