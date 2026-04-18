@@ -1,0 +1,6 @@
+@IsaretDiliAPI_HostAddress = http://localhost:5255
+
+GET {{IsaretDiliAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
